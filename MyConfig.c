@@ -5,4 +5,5 @@ git push
 git status
 git commands
 git remote -v
+git pull origin master
 
