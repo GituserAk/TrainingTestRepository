@@ -1,0 +1,81 @@
+[33mcommit fece4fcd8a672dd8c5b1ab635451d42a0d848f00[m[33m ([m[1;36mHEAD -> [m[1;32mmylocal[m[33m)[m
+Author: devendra151 <devendrachoudhary1995@gmail.com>
+Date:   Fri Oct 6 12:53:19 2017 +0530
+
+    balle
+
+[33mcommit 53dd54dc97c364db4f47d055d0767295eb075b33[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 9acfc62 2c639fd
+Author: ctulanb <32540220+ctulanb@users.noreply.github.com>
+Date:   Thu Oct 5 19:05:23 2017 +0530
+
+    Merge pull request #4 from GituserAk/ABC
+    
+    Updated remote command
+
+[33mcommit 2c639fd1a908b616af0fc606eaa6471c7a2b9404[m[33m ([m[1;31morigin/ABC[m[33m)[m
+Author: ctulanb <bakul.tulankar@jci.com>
+Date:   Thu Oct 5 08:33:57 2017 -0500
+
+    Updated remote command
+
+[33mcommit 9acfc62a537a1400a06cd4b0093653cc4d85f2ea[m
+Merge: 9fffec7 5de1ac0
+Author: GituserAk <32535160+GituserAk@users.noreply.github.com>
+Date:   Thu Oct 5 18:33:59 2017 +0530
+
+    Merge pull request #3 from GituserAk/conflicttest
+    
+    aad remote command
+
+[33mcommit 5de1ac004193cb61a194e24f0d6e608c739b316f[m[33m ([m[1;31morigin/conflicttest[m[33m)[m
+Merge: 05c47f5 9fffec7
+Author: GituserAk <32535160+GituserAk@users.noreply.github.com>
+Date:   Thu Oct 5 18:33:15 2017 +0530
+
+    Merge branch 'master' into conflicttest
+
+[33mcommit 05c47f5466c8256bdc34ef843547fec24be3daed[m
+Author: Ak <akshata.kaand@jci.com>
+Date:   Thu Oct 5 18:29:04 2017 +0530
+
+    aad remote command
+
+[33mcommit 9fffec795f65d7416b90536b2b336e8aeec95887[m
+Merge: ec9d91c 0ee14bc
+Author: GituserAk <32535160+GituserAk@users.noreply.github.com>
+Date:   Thu Oct 5 18:22:19 2017 +0530
+
+    Merge pull request #2 from GituserAk/ABC
+    
+    Abc
+
+[33mcommit 0ee14bcbb4f3a92dd75f2491c912c8cd3637b4af[m
+Author: ctulanb <bakul.tulankar@jci.com>
+Date:   Thu Oct 5 06:56:20 2017 -0500
+
+    Git commands
+
+[33mcommit 6c58d9055fa90cbdf761be3dc3bf81b60fa97ee3[m
+Author: ctulanb <bakul.tulankar@jci.com>
+Date:   Thu Oct 5 05:44:19 2017 -0500
+
+    Bakul changes
+
+[33mcommit ec9d91c5d175d2e2470186aa9b1c915a3d77415f[m
+Author: Ak <akshata.kaand@jci.com>
+Date:   Thu Oct 5 16:04:13 2017 +0530
+
+    added commands
+
+[33mcommit 1b97c28383e5678d42ea0a8640b337394a90e01b[m
+Author: Ak <akshata.kaand@jci.com>
+Date:   Thu Oct 5 15:57:37 2017 +0530
+
+    config file
+
+[33mcommit ca9fbd86283128171ecc3908360afa25f681b39a[m
+Author: GituserAk <32535160+GituserAk@users.noreply.github.com>
+Date:   Thu Oct 5 15:50:42 2017 +0530
+
+    Initial commit
